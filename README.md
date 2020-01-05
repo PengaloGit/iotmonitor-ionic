@@ -28,7 +28,9 @@ After signing up and signing in, a typical scenario is as follows:
 - You can now use the CloudMQTT Websockets UI to send data & click on the graph icon to display your live data.
 - In order to display data from a sensor, subscribe to the same topic as in the app, connect your sensor to CloudMQTT, and bingo!
 
-
+## Made with love by
+* [Loukmane Maada](https://github.com/PengaloGit)
+* [Limouri Anas](https://github.com/falcononrails)
 
 
 
